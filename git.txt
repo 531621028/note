@@ -1,0 +1,1 @@
+git remote add origin https://github.com/531621028/note.git 添加远程仓库
